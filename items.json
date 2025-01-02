@@ -1,0 +1,87 @@
+[
+  {
+    "id": "101",
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 25.99,
+    "quantity": 50,
+    "description": "A high-precision wireless mouse with ergonomic design.",
+    "inStock": true,
+    "tags": [
+      "wireless",
+      "electronics",
+      "mouse"
+    ]
+  },
+  {
+    "id": "102",
+    "name": "Bluetooth Headphones",
+    "category": "Electronics",
+    "price": 49.99,
+    "quantity": 30,
+    "description": "Noise-cancelling over-ear headphones with long battery life.",
+    "inStock": true,
+    "tags": [
+      "audio",
+      "headphones",
+      "bluetooth"
+    ]
+  },
+  {
+    "id": "103",
+    "name": "Coffee Mug",
+    "category": "Kitchen",
+    "price": 12.5,
+    "quantity": 100,
+    "description": "Ceramic coffee mug with a stylish design.",
+    "inStock": true,
+    "tags": [
+      "kitchen",
+      "mug",
+      "coffee"
+    ]
+  },
+  {
+    "id": "104",
+    "name": "Yoga Mat",
+    "category": "Fitness",
+    "price": 20.0,
+    "quantity": 25,
+    "description": "Non-slip yoga mat suitable for all types of exercises.",
+    "inStock": true,
+    "tags": [
+      "fitness",
+      "yoga",
+      "exercise"
+    ]
+  },
+  {
+    "id": "105",
+    "name": "Laptop Stand",
+    "category": "Accessories",
+    "price": 35.0,
+    "quantity": 15,
+    "description": "Adjustable laptop stand for better posture and cooling.",
+    "inStock": false,
+    "tags": [
+      "accessories",
+      "laptop",
+      "stand"
+    ]
+  },
+  {
+    "id": "106",
+    "name": "LED Monitor",
+    "category": "Accessories",
+    "price": 45.0,
+    "quantity": 25,
+    "description": "LED Monitor for better clarity for programmers and gamers.",
+    "inStock": true,
+    "model": "alexnet",
+    "tags": [
+      "accessories",
+      "LED",
+      "stand"
+    ]
+  }
+]
